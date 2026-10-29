@@ -19,3 +19,7 @@ Health check: http://localhost:8000/health
 The existing model previously achieved 88.12% test accuracy. Results on new images may differ.
 
 The original dataset is excluded from version control. The existing trained model is used, so retraining is not required.
+
+## Live Demo
+Try the application here: https://food-quality-classifier-oraz.onrender.com
+
